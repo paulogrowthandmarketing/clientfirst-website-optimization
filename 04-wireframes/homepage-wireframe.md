@@ -1,27 +1,36 @@
 # Homepage Wireframe
 
-## Hero Section
-Headline  
-Subheadline  
-Call-to-action button  
+## 1. Hero Section
+Headline
+Supporting text
+Primary CTA
+Secondary CTA
 
-## Who We Help
-Professionals  
-Families  
-Property investors  
+## 2. Who We Help
+Families
+Professionals
+Property investors
+People wanting financial guidance
 
-## Services
-Tax Minimisation  
-Debt Reduction  
-Wealth Creation  
-Coaching and Mentoring  
+## 3. Core Services
+Tax Minimisation
+Debt Reduction
+Wealth Creation
+Coaching and Mentoring
 
-## Process
-1 Consultation  
-2 Strategy  
-3 Implementation  
+## 4. How It Works
+Step 1: Book a consultation
+Step 2: Review your current position
+Step 3: Build a strategy
+Step 4: Start implementation
 
-## Testimonials
+## 5. Why Choose Client First
+Experience
+Personalised guidance
+Practical strategy
+Long-term support
 
-## Final Call To Action
-Book Free Consultation
+## 6. Testimonials
+
+## 7. Final CTA
+Book Your Free Consultation
