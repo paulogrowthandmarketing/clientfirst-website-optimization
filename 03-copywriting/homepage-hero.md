@@ -1,13 +1,16 @@
 # Homepage Hero Rewrite
 
-## Current Problem
-The homepage headline is broad and does not clearly communicate the value proposition.
+## Goal
+Clearly explain what Client First Investments helps with and encourage visitors to book a consultation.
 
-## New Headline
-Helping Australians reduce debt, minimise tax and build long-term wealth through smarter property strategies.
+## Headline
+Helping Australians reduce debt, minimise tax and build long-term wealth through strategic property investment.
 
 ## Supporting Text
-We help individuals and families develop financial strategies that improve cash flow, reduce unnecessary tax and support long-term wealth growth.
+Client First Investments helps individuals and families build a clearer financial future through practical strategies, mentoring and long-term wealth planning.
 
 ## Primary CTA
-Book a Free Consultation
+Book Your Free Consultation
+
+## Secondary CTA
+Speak With Our Team
