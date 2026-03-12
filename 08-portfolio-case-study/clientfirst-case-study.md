@@ -57,3 +57,14 @@ Changes made:
 
 Goal:
 Strengthen credibility and build trust with visitors considering financial guidance.
+## Homepage Optimization – Phase 5
+
+Optimized the contact section to improve conversion.
+
+Changes made:
+• Updated the contact section headline to focus on consultation booking
+• Added supporting text explaining the benefit of submitting the form
+• Improved the form call-to-action
+
+Goal:
+Encourage visitors who reach the bottom of the page to book a consultation.
