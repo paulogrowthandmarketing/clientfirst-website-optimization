@@ -68,3 +68,17 @@ Changes made:
 
 Goal:
 Encourage visitors who reach the bottom of the page to book a consultation.
+## Service Page Optimization – Tax Minimisation
+
+### Problem
+The original page contained long paragraphs and did not clearly explain the benefits of tax strategies for visitors.
+
+### Changes Made
+• Added a supporting headline under the page title  
+• Simplified the introduction to make it easier to understand  
+• Structured the “two choices” explanation to improve readability  
+• Improved engagement by adding clearer questions  
+• Strengthened the consultation call-to-action
+
+### Goal
+Transform the page from a general explanation into a clearer, conversion-focused service page that encourages visitors to book a consultation.
