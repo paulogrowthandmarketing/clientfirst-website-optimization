@@ -1,12 +1,48 @@
-# Client First Investments Website Optimization
-
-## Project Overview
-
-This project documents the optimization of the Client First Investments website to improve messaging clarity, structure, and conversion performance.
+# Client First Investments  
+### Website Optimization Case Study
 
 ---
 
-# Before and After Improvements
+## Project Overview
+
+This project documents the optimization of the Client First Investments website to improve messaging clarity, page structure, and conversion potential.
+
+The goal of this project was to improve how the website communicates its services and encourage visitors to book consultations.
+
+---
+
+# Key Improvements
+
+### Homepage Optimization
+
+• Improved headline messaging  
+• Clarified value proposition  
+• Simplified service explanations  
+• Added a clear process section  
+• Improved testimonial messaging  
+• Strengthened consultation call-to-action
+
+---
+
+### Service Page Improvements
+
+The following pages were optimized to improve readability and conversion potential:
+
+• Tax Minimisation  
+• Debt Reduction  
+• Wealth Creation  
+• Coaching & Mentoring
+
+Each page was restructured with:
+
+• Clearer headlines  
+• Improved readability  
+• Benefit-focused messaging  
+• Stronger calls-to-action
+
+---
+
+# Before vs After
 
 ## Homepage Before
 
@@ -20,27 +56,27 @@ This project documents the optimization of the Client First Investments website 
 
 ---
 
-# Service Page Improvements
+# Example Service Page Improvements
 
-## Tax Minimisation
+### Tax Minimisation
 
 ![Tax Minimisation After](06-after-screenshots/tax-minimisation-after.png)
 
 ---
 
-## Debt Reduction
+### Debt Reduction
 
 ![Debt Reduction After](06-after-screenshots/debt-reduction-after.png)
 
 ---
 
-## Wealth Creation
+### Wealth Creation
 
 ![Wealth Creation After](06-after-screenshots/wealth-creation-after.png)
 
 ---
 
-## Coaching & Mentoring
+### Coaching & Mentoring
 
 ![Coaching Mentoring After](06-after-screenshots/coaching-mentoring-after.png)
 
@@ -52,7 +88,7 @@ Website Optimization
 Conversion Rate Optimization (CRO)  
 Marketing Messaging Strategy  
 User Experience Improvements  
-Service Page Structure
+Service Page Structure  
 
 ---
 
