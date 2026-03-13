@@ -1,6 +1,6 @@
 # Paulo | Growth & Marketing Portfolio
 
-Welcome to my marketing portfolio.
+Digital marketing specialist focused on website optimization, lead generation, and conversion improvements for service-based businesses.
 
 This site showcases real projects focused on website optimization, conversion improvements, and marketing strategy.
 
