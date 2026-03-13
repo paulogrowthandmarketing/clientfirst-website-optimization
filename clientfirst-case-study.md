@@ -3,7 +3,17 @@
 ---
 # Client First Investments  
 ### Website Optimization Case Study
+---
 
+## Project Summary
+
+**Client:** Client First Investments  
+**Industry:** Property Investment  
+**Project Type:** Website Optimization  
+**Focus:** Messaging clarity and conversion improvements  
+**Tools Used:** Wix, GitHub
+
+---
 ---
 
 ## Project Overview
