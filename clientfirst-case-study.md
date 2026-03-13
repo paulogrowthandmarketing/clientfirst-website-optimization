@@ -1,3 +1,6 @@
+[Home](index) | [Case Study](clientfirst-case-study) | [About](about)
+
+---
 # Client First Investments  
 ### Website Optimization Case Study
 
