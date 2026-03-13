@@ -110,3 +110,16 @@ The original page contained long narrative content and lacked a clear structure 
 
 ### Goal
 Transform the page into a clearer service page that explains the wealth creation process and encourages visitors to book a consultation.
+## Service Page Optimization – Coaching & Mentoring
+
+### Problem
+The original page contained very little content and did not clearly explain the value of the coaching service.
+
+### Changes Made
+• Added a supporting headline
+• Expanded the service explanation
+• Introduced a benefits section
+• Added a consultation call-to-action
+
+### Goal
+Provide a clearer explanation of the coaching service and encourage visitors to book a consultation.
