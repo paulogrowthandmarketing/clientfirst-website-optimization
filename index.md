@@ -35,3 +35,14 @@ Wix
 GitHub  
 Content Strategy  
 Conversion Copywriting
+---
+
+# Contact
+
+If you would like to discuss a project or collaboration, feel free to reach out.
+
+**Email:** pjsoberano@gmail.com  
+
+**LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/paulo-s-52202a59/)
+
+---
