@@ -1,8 +1,8 @@
 [Home](index) | [Case Study](clientfirst-case-study) | [About](about)
 
 ---
-# Paulo | Growth & Marketing Portfolio
-
+# Paulo Soberano
+### Growth & Marketing Portfolio
 Digital marketing specialist focused on website optimization, lead generation, and conversion improvements for service-based businesses.
 
 This site showcases real projects focused on website optimization, conversion improvements, and marketing strategy.
@@ -35,6 +35,7 @@ Wix
 GitHub  
 Content Strategy  
 Conversion Copywriting
+
 ---
 
 # Contact
