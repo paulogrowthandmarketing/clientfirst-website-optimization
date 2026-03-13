@@ -1,3 +1,6 @@
+[Home](index) | [Case Study](clientfirst-case-study) | [About](about)
+
+---
 # Paulo | Growth & Marketing Portfolio
 
 Digital marketing specialist focused on website optimization, lead generation, and conversion improvements for service-based businesses.
