@@ -101,3 +101,18 @@ Wix
 GitHub  
 Content Strategy  
 Conversion Copywriting
+---
+
+# Results & Impact
+
+The website improvements focused on improving clarity, readability, and conversion potential.
+
+Key improvements included:
+
+• Clearer homepage messaging  
+• Simplified service page structure  
+• Improved explanation of the investment process  
+• Stronger consultation call-to-action  
+• Better readability across all service pages
+
+These improvements help visitors better understand the services offered and encourage them to book a consultation.
