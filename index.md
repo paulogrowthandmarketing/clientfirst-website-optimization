@@ -41,8 +41,8 @@ Conversion Copywriting
 
 If you would like to discuss a project or collaboration, feel free to reach out.
 
-**Email:** pjsoberano@gmail.com  
+**Email:** <a href="mailto:pjsoberano@gmail.com">pjsoberano@gmail.com</a>
 
-**LinkedIn:** https://www.linkedin.com/in/paulo-s-52202a59/
+**LinkedIn:** <a href="https://www.linkedin.com/in/paulo-s-52202a59/" target="_blank">Paulo Soberano</a>
 
 ---
