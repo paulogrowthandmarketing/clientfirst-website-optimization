@@ -4,40 +4,49 @@
 
 This project documents the optimization of the Client First Investments website to improve messaging clarity, structure, and conversion performance.
 
-The goal was to improve how the website communicates its services and encourage visitors to book consultations.
+---
+
+# Before and After Improvements
+
+## Homepage Before
+
+![Homepage Before](02-before-screenshots/homepage-before.png)
 
 ---
 
-## Homepage Improvements
+## Homepage After
 
-• Improved headline messaging  
-• Clarified value proposition  
-• Simplified service explanations  
-• Added a clear process section  
-• Improved testimonials section  
-• Strengthened consultation call-to-action
+![Homepage After](06-after-screenshots/homepage-after.png)
 
 ---
 
-## Service Page Improvements
+# Service Page Improvements
 
-The following pages were optimized to improve readability and conversion potential:
+## Tax Minimisation
 
-• Tax Minimisation  
-• Debt Reduction  
-• Wealth Creation  
-• Coaching and Mentoring  
-
-Each page was restructured with:
-
-• Clearer headlines  
-• Improved readability  
-• Benefit-focused messaging  
-• Stronger calls-to-action
+![Tax Minimisation After](06-after-screenshots/tax-minimisation-after.png)
 
 ---
 
-## Skills Demonstrated
+## Debt Reduction
+
+![Debt Reduction After](06-after-screenshots/debt-reduction-after.png)
+
+---
+
+## Wealth Creation
+
+![Wealth Creation After](06-after-screenshots/wealth-creation-after.png)
+
+---
+
+## Coaching & Mentoring
+
+![Coaching Mentoring After](06-after-screenshots/coaching-mentoring-after.png)
+
+---
+
+# Skills Demonstrated
 
 Website Optimization  
 Conversion Rate Optimization (CRO)  
@@ -47,7 +56,7 @@ Service Page Structure
 
 ---
 
-## Tools Used
+# Tools Used
 
 Wix  
 GitHub  
