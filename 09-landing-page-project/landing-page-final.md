@@ -6,6 +6,12 @@ The goal of this project was to create a high-converting landing page designed t
 
 ---
 
+## Final Landing Page
+
+![Landing Page](landing-page-final.png)
+
+---
+
 ## Strategy Overview
 
 The landing page was structured to guide visitors through a clear conversion journey:
@@ -20,20 +26,35 @@ The landing page was structured to guide visitors through a clear conversion jou
 
 ## Page Structure
 
-Hero Section  
-Clear headline and consultation offer
+### Hero Section
 
-Benefits Section  
-Highlights key outcomes of the consultation
+![Hero Section](landing-page-hero.png)
 
-Consultation Process  
-Explains how the consultation works
+Clear headline and consultation offer.
 
-Testimonials  
-Builds trust and credibility
+---
 
-Consultation Form  
-Captures leads for follow-up
+### Benefits Section
+
+![Benefits Section](landing-page-benefits.png)
+
+Highlights key outcomes of the consultation.
+
+---
+
+### Consultation Process
+
+![Process Section](landing-page-process-reused.png)
+
+Explains how the consultation works.
+
+---
+
+### Testimonials
+
+![Testimonials Section](landing-page-testimonials-reused.png)
+
+Builds trust and credibility.
 
 ---
 
