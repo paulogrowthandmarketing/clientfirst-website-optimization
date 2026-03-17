@@ -80,22 +80,22 @@ The landing page provides a focused path for visitors to book a consultation and
 
 ## Mobile Hero
 
-![Mobile Hero](landing-page-mobile-hero.png)
+![Mobile Hero](landing-page-mobile-hero.png.jpeg)
 
 ---
 
 ## Mobile Benefits
 
-![Mobile Benefits](landing-page-mobile-benefits.png)
+![Mobile Benefits](landing-page-mobile-benefits.png.jpeg)
 
 ---
 
 ## Mobile Process
 
-![Mobile Process](landing-page-mobile-process.png)
+![Mobile Process](landing-page-mobile-process.png.jpeg)
 
 ---
 
 ## Mobile Form
 
-![Mobile Form](landing-page-mobile-form.png)
+![Mobile Form](landing-page-mobile-form.png.jpeg)
