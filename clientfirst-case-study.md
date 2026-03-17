@@ -126,3 +126,13 @@ Key improvements included:
 • Better readability across all service pages
 
 These improvements help visitors better understand the services offered and encourage them to book a consultation.
+---
+
+# Landing Page Development
+
+A dedicated landing page was created to support lead generation campaigns.
+
+The page was structured to guide visitors from awareness to booking a consultation, using clear messaging, benefits, process explanation, and social proof.
+
+See full project documentation:
+[Landing Page Project](09-landing-page-project/landing-page-final.md)
