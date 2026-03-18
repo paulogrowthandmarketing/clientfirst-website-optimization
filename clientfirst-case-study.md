@@ -11,20 +11,19 @@
 **Industry:** Property Investment  
 **Project Type:** Website Optimization  
 **Focus:** Messaging clarity and conversion improvements  
-**Tools Used:** Wix, GitHub
+**Tools Used:** Wix, GitHub  
 
----
 ---
 
 ## Project Overview
 
-This project documents the optimization of the Client First Investments website to improve messaging clarity, page structure, and conversion potential.
+This project focused on improving the clarity, structure, and conversion potential of the Client First Investments website.
 
-The goal of this project was to improve how the website communicates its services and encourage visitors to book consultations.
+The goal was to simplify messaging, improve user experience, and guide visitors more effectively toward booking a consultation.
 
 ---
 
-# Key Improvements
+## Key Improvements
 
 ### Homepage Optimization
 
@@ -33,137 +32,123 @@ The goal of this project was to improve how the website communicates its service
 • Simplified service explanations  
 • Added a clear process section  
 • Improved testimonial messaging  
-• Strengthened consultation call-to-action
+• Strengthened consultation call-to-action  
 
 ---
 
 ### Service Page Improvements
 
-The following pages were optimized to improve readability and conversion potential:
+The following pages were optimized to improve readability and conversion:
 
 • Tax Minimisation  
 • Debt Reduction  
 • Wealth Creation  
-• Coaching & Mentoring
+• Coaching & Mentoring  
 
 Each page was restructured with:
 
 • Clearer headlines  
 • Improved readability  
 • Benefit-focused messaging  
-• Stronger calls-to-action
+• Stronger calls-to-action  
 
 ---
 
-# Before vs After
+# Homepage Optimization
 
-## Homepage Before
-
-![Homepage Before](02-before-screenshots/homepage-before.png)
-
----
-
-## Homepage After
-
-![Homepage After](06-after-screenshots/homepage-after.png)
+| Before | After |
+|--------|-------|
+| ![](02-before-screenshots/homepage-before.png) | ![](06-after-screenshots/homepage-after.png) |
 
 ---
 
-# Example Service Page Improvements
+# Service Page Improvements
 
-### Tax Minimisation
+| Tax Minimisation | Debt Reduction |
+|-----------------|----------------|
+| ![](06-after-screenshots/tax-minimisation-after.png) | ![](06-after-screenshots/debt-reduction-after.png) |
 
-![Tax Minimisation After](06-after-screenshots/tax-minimisation-after.png)
+| Wealth Creation | Coaching & Mentoring |
+|----------------|----------------------|
+| ![](06-after-screenshots/wealth-creation-after.png) | ![](06-after-screenshots/coaching-mentoring-after.png) |
 
----
-
-### Debt Reduction
-
-![Debt Reduction After](06-after-screenshots/debt-reduction-after.png)
-
----
-
-### Wealth Creation
-
-![Wealth Creation After](06-after-screenshots/wealth-creation-after.png)
-
----
-
-### Coaching & Mentoring
-
-![Coaching Mentoring After](06-after-screenshots/coaching-mentoring-after.png)
-
----
-
-# Skills Demonstrated
-
-Website Optimization  
-Conversion Rate Optimization (CRO)  
-Marketing Messaging Strategy  
-User Experience Improvements  
-Service Page Structure  
-
----
-
-# Tools Used
-
-Wix  
-GitHub  
-Content Strategy  
-Conversion Copywriting
----
-
-# Results & Impact
-
-The website improvements focused on improving clarity, readability, and conversion potential.
-
-Key improvements included:
-
-• Clearer homepage messaging  
-• Simplified service page structure  
-• Improved explanation of the investment process  
-• Stronger consultation call-to-action  
-• Better readability across all service pages
-
-These improvements help visitors better understand the services offered and encourage them to book a consultation.
----
-
-# Landing Page Development
-
-A dedicated landing page was created to support lead generation campaigns.
-
-The page was structured to guide visitors from awareness to booking a consultation, using clear messaging, benefits, process explanation, and social proof.
-
-See full project documentation:
-[Landing Page Project](09-landing-page-project/landing-page-final.md)
 ---
 
 # Mobile Experience
 
 ## Homepage Mobile
 
-![Homepage Mobile Hero](mobile/homepage-mobile-hero.png)
+| Hero | Services |
+|------|----------|
+| ![](mobile/homepage-mobile-hero.png) | ![](mobile/homepage-mobile-services.png) |
 
-![Homepage Mobile Services](mobile/homepage-mobile-services.png)
-
-![Homepage Mobile Process](mobile/homepage-mobile-process.png)
-
-![Homepage Mobile Testimonials](mobile/homepage-mobile-testimonials.jpg)
+| Process | Testimonials |
+|--------|--------------|
+| ![](mobile/homepage-mobile-process.png) | ![](mobile/homepage-mobile-testimonials.jpg) |
 
 ---
 
 ## Service Pages Mobile
 
-![Tax Minimisation Mobile](mobile/tax-minimisation-mobile.png)
+| Tax | Debt |
+|-----|------|
+| ![](mobile/tax-minimisation-mobile.png) | ![](mobile/debt-reduction-mobile.png) |
 
-![Debt Reduction Mobile](mobile/debt-reduction-mobile.png)
-
-![Wealth Creation Mobile](mobile/wealth-creation-mobile.png)
-
-![Coaching Mentoring Mobile](mobile/coaching-mentoring-mobile.png)
+| Wealth | Coaching |
+|--------|----------|
+| ![](mobile/wealth-creation-mobile.png) | ![](mobile/coaching-mentoring-mobile.png) |
 
 ---
 
-## Contact Form
+## Conversion Section (Form)
 
-![Contact Form Mobile](mobile/contact-form-mobile.png)
+![](mobile/contact-form-mobile.png)
+
+---
+
+## Landing Page Development
+
+A dedicated landing page was created to support lead generation campaigns.
+
+The page was structured to guide visitors from awareness to booking a consultation using:
+
+• Clear messaging  
+• Strong value proposition  
+• Step-by-step process  
+• Social proof  
+• Focused call-to-action  
+
+👉 [View Landing Page Project](09-landing-page-project/landing-page-final.md)
+
+---
+
+## Skills Demonstrated
+
+Website Optimization  
+Conversion Rate Optimization (CRO)  
+Marketing Messaging Strategy  
+User Experience Improvements  
+Landing Page Strategy  
+
+---
+
+## Tools Used
+
+Wix  
+GitHub  
+Content Strategy  
+Conversion Copywriting  
+
+---
+
+## Results & Impact
+
+The improvements created a clearer, more structured user journey designed to increase engagement and consultation bookings.
+
+Key outcomes:
+
+• Improved homepage clarity  
+• Stronger service page messaging  
+• Better structured user flow  
+• Increased focus on conversion  
+• Optimized experience across desktop and mobile  
