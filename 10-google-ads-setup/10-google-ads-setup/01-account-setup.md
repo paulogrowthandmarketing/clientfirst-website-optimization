@@ -24,3 +24,7 @@ Set up a Google Ads account for Client First Investments.
 - Account created for Australian market
 - Billing handled personally for initial setup
 - Google onboarding flow required partial Smart setup before dashboard access
+## Screenshots
+
+### Clean Google Ads Dashboard
+![Dashboard](images/dashboard-clean.png)
