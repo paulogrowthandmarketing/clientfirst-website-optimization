@@ -66,8 +66,6 @@ The page was structured to guide visitors from awareness to booking a consultati
 • Social proof  
 • Focused call-to-action  
 
-👉 [View Landing Page Project](09-landing-page-project/landing-page-final.md)
-
 ---
 
 ### Google Ads Setup
@@ -82,25 +80,6 @@ Setup work included:
 • Conversion setup for consultation leads  
 • Dedicated thank-you page creation  
 • Form redirect setup for cleaner tracking  
-
----
-
-### Google Ads Screenshots
-
-#### Google Ads Conversion Tracking
-![](10-google-ads-setup/images/conversion-list.png)
-
-#### Thank You Page
-![](10-google-ads-setup/images/thank-you-page.png)
-
----
-
-### Google Ads Documentation
-
-👉 [Account Setup](10-google-ads-setup/01-account-setup.md)  
-👉 [Account Configuration](10-google-ads-setup/02-account-configuration.md)  
-👉 [Campaign Setup](10-google-ads-setup/03-campaign-setup.md)  
-👉 [Conversion Tracking](10-google-ads-setup/04-conversion-tracking.md)
 
 ---
 
