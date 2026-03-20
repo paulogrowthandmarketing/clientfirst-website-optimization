@@ -66,6 +66,8 @@ The page was structured to guide visitors from awareness to booking a consultati
 • Social proof  
 • Focused call-to-action  
 
+👉 [View Landing Page Project](09-landing-page-project/landing-page-final.md)
+
 ---
 
 ### Google Ads Setup
