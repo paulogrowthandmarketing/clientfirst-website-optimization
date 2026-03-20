@@ -13,7 +13,7 @@ This site showcases real projects focused on website optimization, conversion im
 
 ## Client First Investments
 
-Website optimization project including homepage improvements and service page restructuring.
+Website optimization and Google Ads setup project focused on lead generation, landing page improvements, and conversion tracking.
 
 [View the Client First Case Study](clientfirst-case-study)
 
@@ -25,16 +25,19 @@ Website Optimization
 Conversion Rate Optimization (CRO)  
 Marketing Messaging  
 Landing Page Strategy  
-User Experience Improvements
+User Experience Improvements  
+Google Ads Setup  
+Conversion Tracking  
 
 ---
 
 # Tools Used
 
 Wix  
+Google Ads  
 GitHub  
 Content Strategy  
-Conversion Copywriting
+Conversion Copywriting  
 
 ---
 
