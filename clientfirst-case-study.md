@@ -85,6 +85,25 @@ Setup work included:
 
 ---
 
+### Google Ads Screenshots
+
+#### Google Ads Conversion Tracking
+![](10-google-ads-setup/images/conversion-list.png)
+
+#### Thank You Page
+![](10-google-ads-setup/images/thank-you-page.png)
+
+---
+
+### Google Ads Documentation
+
+👉 [Account Setup](10-google-ads-setup/01-account-setup.md)  
+👉 [Account Configuration](10-google-ads-setup/02-account-configuration.md)  
+👉 [Campaign Setup](10-google-ads-setup/03-campaign-setup.md)  
+👉 [Conversion Tracking](10-google-ads-setup/04-conversion-tracking.md)
+
+---
+
 ### Conversion Tracking Setup
 
 A thank-you page tracking method was implemented to measure consultation form submissions more reliably.
@@ -187,4 +206,4 @@ Key outcomes:
 • Dedicated landing page for lead generation  
 • Google Ads account prepared for campaigns  
 • Conversion tracking implemented through thank-you page setup  
-• Improved readiness for measurable consultation bookings  
+• Improved readiness for measurable consultation bookings
