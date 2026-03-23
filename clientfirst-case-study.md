@@ -100,6 +100,24 @@ This created a cleaner and more measurable funnel for future ad campaigns.
 
 ---
 
+### Campaign Creation
+
+A Google Search campaign was created and published to promote the Free Property Investment Consultation landing page.
+
+Campaign setup included:
+
+• Campaign type: Search  
+• Objective: Leads  
+• Daily budget: A$20 per day  
+• Location targeting: Australia  
+• Language: English  
+• Bidding strategy: Maximize conversions  
+• Keyword targeting focused on property investment consultation and related services  
+
+The campaign is now live and currently in the learning phase while Google begins gathering performance data.
+
+---
+
 # Homepage Optimization
 
 | Before | After |
