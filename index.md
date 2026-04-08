@@ -4,9 +4,9 @@
 # Paulo Soberano
 ### Growth & Marketing Portfolio
 
-Digital marketing specialist focused on **lead generation, website optimization, and conversion-focused content systems** for service-based businesses.
+Digital marketing specialist focused on building **conversion-focused websites and marketing systems** for service-based businesses.
 
-I build marketing assets that turn traffic into leads — not just campaigns.
+I turn marketing assets — like ads and landing pages — into structured systems that generate leads and build long-term value.
 
 ---
 
@@ -17,7 +17,7 @@ I build marketing assets that turn traffic into leads — not just campaigns.
 End-to-end marketing work focused on improving website performance, strengthening messaging, and supporting lead generation through both organic and paid strategies.
 
 ### 🔹 Website Optimization & Google Ads
-Optimized website structure, improved landing page messaging, and supported Google Ads setup to drive more qualified leads.
+Website optimization and Google Ads setup focused on improving lead quality, landing page performance, and conversion tracking.
 
 [View the Client First Case Study](clientfirst-case-study)
 
@@ -31,6 +31,11 @@ A content-driven page designed to transform Facebook ad creatives into structure
 - Designed a scalable content layout in Wix  
 - Improved messaging from sales-focused to value-driven  
 - Built a reusable system for ongoing marketing content  
+
+**Impact:**
+- Turned ad creatives into reusable website content  
+- Increased long-term value of paid campaigns  
+- Improved trust and engagement through structured content  
 
 [View the Investor Insights Project](11-investor-insights)
 
