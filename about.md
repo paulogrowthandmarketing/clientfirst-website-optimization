@@ -1,19 +1,28 @@
 [Home](index) | [Case Study](clientfirst-case-study) | [About](about)
 
 ---
-# About
 
-Digital marketing specialist focused on lead generation, website optimization, and conversion-focused marketing for service-based businesses.
+# About Me
 
-Work centers on improving website messaging, building stronger landing page structures, supporting paid advertising efforts, and creating content systems that turn marketing assets into long-term business value.
+I specialize in website optimization, marketing strategy, and conversion-focused improvements for service-based businesses.
 
-Core areas of focus:
-- Website optimization  
-- Conversion rate improvement  
-- Google Ads support  
-- Content positioning  
-- User experience (UX)  
-
-This portfolio highlights practical projects aimed at improving website performance, marketing clarity, and lead generation outcomes.
+My focus is helping businesses improve how their websites communicate value, generate leads, and convert visitors into clients.
 
 ---
+
+# Skills
+
+Website Optimization  
+Conversion Rate Optimization (CRO)  
+Marketing Messaging  
+Landing Page Strategy  
+User Experience Improvements  
+
+---
+
+# Tools
+
+Wix  
+GitHub  
+Marketing Strategy  
+Conversion Copywriting
