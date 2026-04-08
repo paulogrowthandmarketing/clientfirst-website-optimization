@@ -30,6 +30,12 @@ This improves:
 
 ---
 
+## Page Preview
+
+![Investor Insights Page](investor-insights-page.png)
+
+---
+
 ## Tools Used
 - Wix
 - Canva
