@@ -1,68 +1,208 @@
 [Home](index) | [Case Study](clientfirst-case-study) | [About](about)
 
 ---
-# Client First Investments Case Study
+# Client First Investments  
+### Website Optimization & Google Ads Setup Case Study
+---
 
-## Overview
-Client First Investments is a service-based business focused on helping Australians build wealth through property investing, debt reduction, and financial strategy.
+## Project Summary
 
-This project involved website optimization, content positioning, and marketing support to improve lead generation and user engagement.
+**Client:** Client First Investments  
+**Industry:** Property Investment  
+**Project Type:** Website Optimization and Lead Generation Setup  
+**Focus:** Messaging clarity, conversion improvements, and Google Ads preparation  
+**Tools Used:** Wix, Google Ads, GitHub  
 
 ---
 
-## Project Goals
-- Improve the website experience for potential leads
-- Support lead generation through clearer messaging
-- Prepare the business for Google Ads traffic
-- Create content assets that could build trust and authority
+## Project Overview
+
+This project focused on improving the clarity, structure, and conversion potential of the Client First Investments website while preparing the business for lead generation through Google Ads.
+
+The goal was to simplify messaging, improve user experience, strengthen calls-to-action, and build a cleaner path for consultation bookings through a dedicated landing page and tracked conversion flow.
 
 ---
 
-## Work Completed
+## Key Improvements
 
 ### Website Optimization
-- Reviewed the website layout and content structure
-- Improved messaging clarity for service pages
-- Focused on stronger lead generation pathways
-- Helped make pages more aligned with paid traffic goals
 
-### Investor Insights Page
-A new website page was created to turn Facebook ad creatives into long-term educational website assets.
-
-Instead of leaving ad content only on social media, the ads were reframed into structured website content that visitors can browse and learn from.
-
-**Key improvements:**
-- Created a consistent page structure in Wix
-- Added headline, supporting copy, and CTA sections
-- Turned ad messaging into value-driven educational content
-- Built a repeatable layout for future ad creatives
-
-### Google Ads Preparation
-- Supported the website structure with future paid traffic in mind
-- Helped align page messaging with lead generation goals
-- Contributed to a stronger foundation for conversion tracking and campaign setup
+• Improved headline messaging  
+• Clarified value proposition  
+• Simplified service explanations  
+• Added a clear process section  
+• Improved testimonial messaging  
+• Strengthened consultation call-to-action  
 
 ---
 
-## Results / Impact
-- Improved trust and content depth on the website
-- Extended the value of paid ad creatives beyond Facebook
-- Created a reusable content system for future campaigns
-- Strengthened the website as a lead generation asset
+### Service Page Improvements
+
+The following pages were optimized to improve readability and conversion:
+
+• Tax Minimisation  
+• Debt Reduction  
+• Wealth Creation  
+• Coaching & Mentoring  
+
+Each page was restructured with:
+
+• Clearer headlines  
+• Improved readability  
+• Benefit-focused messaging  
+• Stronger calls-to-action  
+
+---
+
+### Landing Page Development
+
+A dedicated landing page was created to support lead generation campaigns.
+
+The page was structured to guide visitors from awareness to booking a consultation using:
+
+• Clear messaging  
+• Strong value proposition  
+• Step-by-step process  
+• Social proof  
+• Focused call-to-action  
+
+👉 [View Landing Page Project](09-landing-page-project/landing-page-final.md)
+
+---
+
+### Google Ads Setup
+
+A Google Ads account was created and configured to prepare for paid lead generation campaigns.
+
+Setup work included:
+
+• Google Ads account creation  
+• Billing and account configuration  
+• Google tag installation on Wix  
+• Conversion setup for consultation leads  
+• Dedicated thank-you page creation  
+• Form redirect setup for cleaner tracking  
+
+---
+
+### Conversion Tracking Setup
+
+A thank-you page tracking method was implemented to measure consultation form submissions more reliably.
+
+The conversion flow was structured as follows:
+
+1. Visitor lands on the consultation landing page  
+2. Visitor submits the form  
+3. Visitor is redirected to a thank-you page  
+4. The thank-you page visit is counted as a Google Ads conversion  
+
+This created a cleaner and more measurable funnel for future ad campaigns.
+
+---
+
+### Campaign Creation
+
+A Google Search campaign was created and published to promote the Free Property Investment Consultation landing page.
+
+Campaign setup included:
+
+• Campaign type: Search  
+• Objective: Leads  
+• Daily budget: A$20 per day  
+• Location targeting: Australia  
+• Language: English  
+• Bidding strategy: Maximize conversions  
+• Keyword targeting focused on property investment consultation and related services  
+
+The campaign is now live and currently in the learning phase while Google begins gathering performance data.
+
+---
+
+# Homepage Optimization
+
+| Before | After |
+|--------|-------|
+| ![](02-before-screenshots/homepage-before.png) | ![](06-after-screenshots/homepage-after.png) |
+
+---
+
+# Service Page Improvements
+
+| Tax Minimisation | Debt Reduction |
+|-----------------|----------------|
+| ![](06-after-screenshots/tax-minimisation-after.png) | ![](06-after-screenshots/debt-reduction-after.png) |
+
+| Wealth Creation | Coaching & Mentoring |
+|----------------|----------------------|
+| ![](06-after-screenshots/wealth-creation-after.png) | ![](06-after-screenshots/coaching-mentoring-after.png) |
+
+---
+
+# Mobile Experience
+
+## Homepage Mobile
+
+| Hero | Services |
+|------|----------|
+| ![](mobile/homepage-mobile-hero.png) | ![](mobile/homepage-mobile-services.png) |
+
+| Process | Testimonials |
+|--------|--------------|
+| ![](mobile/homepage-mobile-process.png) | ![](mobile/homepage-mobile-testimonials.jpg) |
+
+---
+
+## Service Pages Mobile
+
+| Tax | Debt |
+|-----|------|
+| ![](mobile/tax-minimisation-mobile.png) | ![](mobile/debt-reduction-mobile.png) |
+
+| Wealth | Coaching |
+|--------|----------|
+| ![](mobile/wealth-creation-mobile.png) | ![](mobile/coaching-mentoring-mobile.png) |
+
+---
+
+## Conversion Section (Form)
+
+![](mobile/contact-form-mobile.png)
+
+---
+
+## Skills Demonstrated
+
+Website Optimization  
+Conversion Rate Optimization (CRO)  
+Marketing Messaging Strategy  
+Landing Page Strategy  
+Google Ads Setup  
+Conversion Tracking  
+Lead Generation Funnel Setup  
 
 ---
 
 ## Tools Used
-- Wix
-- Google Ads
-- Canva
-- GitHub
-- Content Strategy
-- Conversion Copywriting
+
+Wix  
+Google Ads  
+GitHub  
+Content Strategy  
+Conversion Copywriting  
+Conversion Tracking  
 
 ---
 
-## Key Takeaway
-This project shows how paid ad content can be repurposed into website assets that continue building authority, trust, and conversion potential over time.
+## Results & Impact
 
----
+The project created a clearer, more structured path from website visit to consultation inquiry.
+
+Key outcomes:
+
+• Improved homepage clarity  
+• Stronger service page messaging  
+• Better structured user flow  
+• Dedicated landing page for lead generation  
+• Google Ads account prepared for campaigns  
+• Conversion tracking implemented through thank-you page setup  
+• Improved readiness for measurable consultation bookings
